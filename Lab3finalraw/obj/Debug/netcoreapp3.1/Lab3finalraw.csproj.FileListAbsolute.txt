@@ -1,0 +1,10 @@
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/bin/Debug/netcoreapp3.1/Lab3finalraw.deps.json
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/bin/Debug/netcoreapp3.1/Lab3finalraw.runtimeconfig.json
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/bin/Debug/netcoreapp3.1/Lab3finalraw.runtimeconfig.dev.json
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/bin/Debug/netcoreapp3.1/Lab3finalraw.dll
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/bin/Debug/netcoreapp3.1/Lab3finalraw.pdb
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/obj/Debug/netcoreapp3.1/Lab3finalraw.csprojAssemblyReference.cache
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/obj/Debug/netcoreapp3.1/Lab3finalraw.AssemblyInfoInputs.cache
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/obj/Debug/netcoreapp3.1/Lab3finalraw.AssemblyInfo.cs
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/obj/Debug/netcoreapp3.1/Lab3finalraw.dll
+/Users/victoriasviridchik/RiderProjects/Lab3finalraw/Lab3finalraw/obj/Debug/netcoreapp3.1/Lab3finalraw.pdb
